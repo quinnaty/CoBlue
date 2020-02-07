@@ -14,9 +14,9 @@
                 <table class="table table-striped table-hover table-responsive ">
                   <thead>
                     <tr>
-                      <th scope="col">#</th>
-                      <th scope="col">Cliente</th>
-                      <th scope="col">Empresa</th>
+                      <th scope="col" >#</th>
+                      <th scope="col" width="250px">Cliente</th>
+                      <th scope="col" width="250px">Empresa</th>
                       <th scope="col">Email</th>
                       <th scope="col">Telefone</th>
                       <th scope="col">Validade</th>
