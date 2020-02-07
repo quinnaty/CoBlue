@@ -31,9 +31,12 @@
                 <label for="">validade</label>
                 <input type="date" name="validade" class="form-control" value="{{ $contato->validade }}" cols="30" rows="10"></input>
             </div>
-            <div class="modal-footer">
-              <button type="submit" class="btn btn-outline-primary"><i class="fa fa-save"></i> Editar</button>
-            </div>
+
+                <button type="submit" class="btn btn-outline-primary"><i class="fa fa-save"></i>
+                    Editar
+                </button>
+                <a href="{{ route('contatos') }}" class="btn btn-outline-danger"><i class="fa fa-arrow-left"></i> Voltar</a>
+
         </form>
     </div>
 </div>
