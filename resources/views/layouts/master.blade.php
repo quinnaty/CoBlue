@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="jumbotron p-0 p-md-2 text-center rounded bg-gradient-light">
-                <img class="img-fluid d-block" src="https://raw.githubusercontent.com/quinnaty/CoBlue/master/public/images/agsemfundo.png" >
+                <img class="img-fluid d-block" src="https://github.com/quinnaty/CoBlue/blob/master/public/images/agsemfundo.png?raw=true" >
             </div>
         </div>
     <div class="container">
